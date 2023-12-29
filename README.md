@@ -3,3 +3,4 @@ This repository includes codes and algorithms made by me during my graduation as
 
 - Data Structures (estrutura de dados);
 - Algorithms I (algoritmos 1);
+- Discrete Mathematics;
